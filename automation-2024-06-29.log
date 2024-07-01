@@ -1,0 +1,7 @@
+2024-06-29T20:21:04,961 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-29T20:21:16,562 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-29T20:21:16,564 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-29T20:21:16,566 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-29T20:21:16,616 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@17dd671f]
+2024-06-29T20:21:27,104 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-29T20:39:19,803 [main] INFO  (BaseTest.java:67) - Closing the webdriver

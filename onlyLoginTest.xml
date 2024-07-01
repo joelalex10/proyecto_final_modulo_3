@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Only Login Test" verbose="1" >
+    <parameter name="url" value="https://www.demoblaze.com/"/>
+    <test name="Only Login test on Chrome" >
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="features.LoginTest">
+            </class>
+        </classes>
+    </test>
+</suite>

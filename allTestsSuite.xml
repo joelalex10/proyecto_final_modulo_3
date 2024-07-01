@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="All Tests" verbose="1" >
+    <parameter name="url" value="https://www.demoblaze.com/"/>
+    <test name="All Test Chrome" >
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="features.SeeProductDetailsTests"/>
+            <class name="features.AddProductsToCartTests"/>
+            <class name="features.ProductPurchaseTests"/>
+
+        </classes>
+    </test>
+    <test name="All Test Firefox" >
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="features.SeeProductDetailsTests"/>
+            <class name="features.AddProductsToCartTests"/>
+            <class name="features.ProductPurchaseTests"/>
+        </classes>
+    </test>
+</suite>

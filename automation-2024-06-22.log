@@ -1,0 +1,120 @@
+2024-06-22T19:43:46,186 [main] INFO  (BaseTest.java:37) - Navigate to https://www.demoblaze.com/
+2024-06-22T19:43:50,444 [main] INFO  (BaseTest.java:69) - Closing the webdriver
+2024-06-22T19:46:11,921 [main] INFO  (BaseTest.java:37) - Navigate to https://www.demoblaze.com/
+2024-06-22T19:46:17,457 [main] INFO  (BaseTest.java:69) - Closing the webdriver
+2024-06-22T19:50:02,668 [main] INFO  (BaseTest.java:37) - Navigate to https://www.demoblaze.com/
+2024-06-22T19:50:06,693 [main] INFO  (BaseTest.java:69) - Closing the webdriver
+2024-06-22T19:50:13,944 [main] INFO  (BaseTest.java:37) - Navigate to https://www.demoblaze.com/
+2024-06-22T19:50:19,276 [main] INFO  (BaseTest.java:69) - Closing the webdriver
+2024-06-22T19:52:38,089 [main] INFO  (BaseTest.java:37) - Navigate to https://www.demoblaze.com/
+2024-06-22T19:52:42,143 [main] INFO  (BaseTest.java:69) - Closing the webdriver
+2024-06-22T19:52:48,858 [main] INFO  (BaseTest.java:37) - Navigate to https://www.demoblaze.com/
+2024-06-22T19:52:54,377 [main] INFO  (BaseTest.java:69) - Closing the webdriver
+2024-06-22T19:59:34,930 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T19:59:48,439 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:02:12,828 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:02:25,624 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:03:04,547 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:03:16,417 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:06:31,828 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:06:43,249 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:10:02,185 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:10:19,017 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:12:10,762 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:12:26,376 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:17:22,105 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:17:22,111 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:17:22,172 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@54e7391d]
+2024-06-22T20:17:33,474 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:17:33,475 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:17:33,476 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:17:33,476 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@4052c8c2]
+2024-06-22T20:17:51,152 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:22:33,749 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:22:33,756 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:22:33,820 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@2d0566ba]
+2024-06-22T20:22:49,636 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:22:49,640 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:22:49,641 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:22:49,642 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@3d4e405e]
+2024-06-22T20:23:01,343 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:23:51,270 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:23:51,279 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:23:51,349 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@320e400]
+2024-06-22T20:24:16,408 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:24:16,420 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:24:16,421 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:24:16,425 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@53abfc07]
+2024-06-22T20:24:45,275 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:32:49,481 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:32:49,489 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:32:49,559 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@51c929ae]
+2024-06-22T20:34:49,596 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:34:49,603 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:34:49,672 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@29d2d081]
+2024-06-22T20:35:07,255 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:35:07,264 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:35:07,265 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:35:07,268 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@75a0c890]
+2024-06-22T20:35:26,298 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:43:54,824 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:43:54,833 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:43:54,907 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@7bdf6bb7]
+2024-06-22T20:44:15,448 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:45:22,870 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:45:22,877 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-missing-data.json
+2024-06-22T20:45:22,944 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@2024293c]
+2024-06-22T20:45:42,907 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:45:42,909 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:45:42,909 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:45:42,911 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@30f74e79]
+2024-06-22T20:46:02,097 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:49:09,544 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:49:09,552 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-missing-data.json
+2024-06-22T20:49:09,620 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@c8b96ec]
+2024-06-22T20:49:09,648 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:49:09,649 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:49:09,651 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@50d68830]
+2024-06-22T20:49:44,012 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:49:44,019 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-missing-data.json
+2024-06-22T20:49:44,085 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@6ebd78d1]
+2024-06-22T20:50:03,177 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:50:03,179 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:50:03,179 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:50:03,181 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@9679750]
+2024-06-22T20:50:49,714 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:50:49,724 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:50:49,796 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@3c291aad]
+2024-06-22T20:51:10,272 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T20:54:20,218 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T20:54:20,230 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T20:54:20,307 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@40e4ea87]
+2024-06-22T20:54:38,933 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:01:56,541 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T21:01:56,551 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T21:01:56,619 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@c074c0c]
+2024-06-22T21:02:16,139 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:03:08,262 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:03:19,718 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:03:19,727 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T21:03:19,730 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T21:03:19,794 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@1f53481b]
+2024-06-22T21:03:31,931 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:03:44,407 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:04:12,851 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:04:12,851 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T21:04:12,851 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T21:04:12,853 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@e91b4f4]
+2024-06-22T21:04:31,254 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:05:35,836 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T21:05:35,846 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T21:05:35,918 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@58783f6c]
+2024-06-22T21:05:55,697 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:06:44,226 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T21:06:44,233 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T21:06:44,304 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@2d8f2f3a]
+2024-06-22T21:07:03,982 [main] INFO  (BaseTest.java:67) - Closing the webdriver
+2024-06-22T21:09:32,076 [main] INFO  (JsonTestData.java:19) - JsonTestData created
+2024-06-22T21:09:32,084 [main] INFO  (JsonTestData.java:24) - filePath: resources/testdata/purchase/user-data.json
+2024-06-22T21:09:32,224 [main] INFO  (JsonTestData.java:27) - getTestData: [com.demoblaze.models.Buyer@54e7391d]
+2024-06-22T21:09:53,170 [main] INFO  (BaseTest.java:67) - Closing the webdriver
